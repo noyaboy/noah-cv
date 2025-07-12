@@ -33,7 +33,7 @@ education:
     institution: Institute of Pioneer Semiconductor Innovation, NYCU
     date_start: "2024-09-01"
     date_end: ""
-    summary: Institute of Pioneer Semiconductor Innovation, Integrated Circuit and System Group
+    summary: While completing my coursework, I concurrently held the position of Graduate Research Assistant in Professor Bo-Cheng Lai’s laboratory.
   - area: Bachelor Electrical Engineering (Distinction)
     institution: National Tsing Hua University
     date_start: "2021-09-01"
@@ -54,21 +54,21 @@ work:
     location: Hsinchu, Taiwan
     date_start: "2024-12-01"
     date_end: ""
-    summary: Researching intelligent-computing architectures and hardware–software co-acceleration in the Parallel Computing System Laboratory (Prof. Bo-Cheng Lai).
+    summary: I am currently pursuing a Master of Engineering in Digital VLSI and System Design at National Yang Ming Chiao Tung University, where I work in the Parallel Computing System Laboratory under Professor Lai, Bo-Cheng. My research focuses on developing advanced methodologies for intelligent computing, with an emphasis on hardware-software co-acceleration and heterogeneous platform integrating FPGA and GPU.
   - position: Affiliate Trainee
     company_name: A3D3 – Accelerated AI Algorithms for Data-Driven Discovery
     company_url: https://a3d3.ai/
     location: Seattle, USA
     date_start: "2025-01-01"
     date_end: ""
-    summary: Optimizing GPU algorithms for real-time particle-trajectory reconstruction in HL-LHC high-energy-physics experiments.
+    summary: I am currently optimizing GPU algorithms to enhance performance and address computational challenges in particle trajectory reconstruction for the High-Luminosity Large Hadron Collider (HL-LHC) in High-Energy Physics (HEP) experiments. By leveraging advanced GPU platforms, I drive significant improvements in real-time data processing and reconstruction.
   - position: Teaching Assistant
     company_name: National Tsing Hua University
     company_url: https://www.nthu.edu.tw/
     location: Hsinchu, Taiwan
     date_start: "2023-09-01"
     date_end: "2024-01-31"
-    summary: Supervised undergraduate physics labs, graded reports, and coordinated experiment schedules.
+    summary: I managed exams and demonstrated physics experiments in mechanics, thermodynamics and wave phenomena by preparing materials, setting up and calibrating equipment, and teaching the procedures. I guided students through each experiment, answered their questions and clarified concepts to strengthen both their theoretical knowledge and practical skills. Afterward, I evaluated their lab reports and provided constructive feedback to support their improvement. I also coordinated the experimental schedule and worked closely with faculty to optimize laboratory sessions and enhance the overall learning experience. Throughout this role, I deepened my understanding of teaching methodologies and honed my oral communication and instructional abilities, which are vital for engaging students effectively.
 
 skills:
   - name: Technical
