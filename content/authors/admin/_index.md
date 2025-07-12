@@ -49,12 +49,6 @@ education:
     summary: "Graduated with Distinction"
 
 work:
-  - position: "Analog Design Intern"
-    company_name: "Qualcomm"
-    company_url: "https://www.qualcomm.com/"
-    date_start: "2025-06-01"
-    date_end: ""
-    summary: "Upcoming summer intern in San Diego."
   - position: "Digital VLSI Intern"
     company_name: "Andes Technology"
     company_url: "https://www.andestech.com/"
@@ -89,4 +83,4 @@ awards: []
 
 ## About Me
 
-Hao-Jyun (Noah) Liang is a graduate student at the Institute of Pioneer Semiconductor Innovation, NYCU. He previously interned at Andes Technology focusing on digital VLSI design and will join Qualcomm as an Analog Design Intern. His interests include hardware-software co-development and semiconductor innovation.
+Hao-Jyun (Noah) Liang is a graduate student at the Institute of Pioneer Semiconductor Innovation, NYCU. He previously interned at Andes Technology focusing on digital VLSI design. His interests include hardware-software co-development and semiconductor innovation.
