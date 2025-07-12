@@ -73,22 +73,16 @@ work:
 skills:
   - name: Technical
     items:
-      - name: Verilog/SystemVerilog
+      - name: Verilog, C/C++, Python, Perl
         percent: 80
         icon: microchip
-      - name: Python
-        percent: 70
-        icon: code-bracket
-      - name: C/C++
+      - name: VCS, Verdi, SpyGlass, DC, PrimeTime, Hspice, Laker, Innovus, Calibre, Virtuoso, Caliber
         percent: 70
         icon: code
-      - name: CUDA GPU
-        percent: 65
-        icon: rocket
 
 languages:
   - name: English
-    percent: 95
+    percent: 80
   - name: Chinese
     percent: 100
 
