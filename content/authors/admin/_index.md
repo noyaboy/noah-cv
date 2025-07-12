@@ -82,7 +82,7 @@ skills:
       - name: DC, PrimeTime, Innovus
         percent: 70
         icon: code
-      - name: Hspice, Laker, Calibre, Virtuoso
+      - name: Hspice, Laker, Calibre
         percent: 70
         icon: code
 
