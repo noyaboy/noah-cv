@@ -3,14 +3,11 @@ title: Codegen
 date: 2025-09-01
 external_link: https://github.com/noyaboy/andla_codegen
 tags:
-  - CSV
-  - Python
-  - RTL
-  - C
-  - AsciiDoc
+  - Hugo
+  - Wowchemy
+  - Markdown
 ---
 
-I designed and implemented a fully automated, end-to-end workflow—combining CSV interfaces.
-
+Fully automated, end-to-end workflow—combining CSV interfaces, Python scripts, and templated generators to produce RTL code, C drivers, and detailed register-file datasheets.
 
 <!--more-->
