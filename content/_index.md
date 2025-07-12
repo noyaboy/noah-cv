@@ -35,7 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on developing advanced methodologies for intelligent computing, with an emphasis on hardware-software co-acceleration and heterogeneous platform integrating FPGA and GPU. Recently, I am optimizing GPU algorithms in traccc to enhance performance and address computational challenges in particle trajectory reconstruction for the High-Luminosity Large Hadron Collider (HL-LHC) in High-Energy Physics (HEP) experiments. 
+        My research focuses on developing advanced methodologies for intelligent computing, with an emphasis on hardware-software co-acceleration and heterogeneous platform integrating FPGA and GPU. 
+        
+        Recently, I am optimizing GPU algorithms in traccc to enhance performance and address computational challenges in particle trajectory reconstruction for the High-Luminosity Large Hadron Collider (HL-LHC) in High-Energy Physics (HEP) experiments. 
         
         Please reach out to collaborate 😃
     design:
