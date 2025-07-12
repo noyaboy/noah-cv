@@ -76,7 +76,13 @@ skills:
       - name: Verilog, C/C++, Python, Perl
         percent: 80
         icon: microchip
-      - name: VCS, Verdi, SpyGlass, DC, PrimeTime, Hspice, Laker, Innovus, Calibre, Virtuoso
+      - name: VCS, Verdi, SpyGlass
+        percent: 70
+        icon: code
+      - name: DC, PrimeTime, Innovus
+        percent: 70
+        icon: code
+      - name: Hspice, Laker, Calibre, Virtuoso
         percent: 70
         icon: code
 
