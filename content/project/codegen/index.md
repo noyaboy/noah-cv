@@ -1,13 +1,16 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Codegen
+date: 2025-09-01
+external_link: https://github.com/noyaboy/andla_codegen
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - CSV
+  - Python
+  - RTL
+  - C
+  - AsciiDoc
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+I designed and implemented a fully automated, end-to-end workflow—combining CSV interfaces, Python scripts, and templated generators—to produce RTL code, C drivers, and detailed register-file datasheets. This system virtually eliminated manual errors and dramatically accelerated delivery across multiple design configurations.
+
 
 <!--more-->
