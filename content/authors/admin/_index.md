@@ -33,12 +33,12 @@ education:
     institution: Institute of Pioneer Semiconductor Innovation, NYCU
     date_start: "2024-09-01"
     date_end: ""
-    summary: "I am currently pursuing a Thesis-Based Master of Engineering in Digital VLSI and System Design at National Yang Ming Chiao Tung University, where I work as graduate research assistant in the Parallel Computing System Laboratory under Professor Lai, Bo-Cheng."
+    summary: "In pursuit of a thesis-based M.Eng. in Digital VLSI and System Design at National Yang Ming Chiao Tung University, I serve as a graduate research assistant in Professor Bo-Cheng Lai’s Parallel Computing System Laboratory."
   - area: Bachelor Electrical Engineering (Distinction)
     institution: National Tsing Hua University
     date_start: "2021-09-01"
     date_end: "2024-06-30"
-    summary: Certificate of Outstanding Graduate Award with 3x Dean's List Awards and 1x College of Science Elite Student Award.
+    summary: Recipient of the Certificate of Outstanding Graduate Award, a three-time Dean’s List honoree, and the College of Science Elite Student Award.
 
 work:
   - position: Digital Design Intern
@@ -47,7 +47,7 @@ work:
     location: Hsinchu, Taiwan
     date_start: "2024-11-01"
     date_end: ""
-    summary: During my gap year at Andes Technology’s Computing Acceleration R&D Division, I automated RTL code, C code generation using a CSV interface, Python scripts and templates, which cut errors and sped up the process. I also oversaw the deep learning accelerator’s performance workflow—from choosing libraries and generating hardware with TSMC SRAM macros to running functional test, using power pattern to generate toggle information and carrying out power and static timing analyses with graph-based algorithms.
+    summary: "In the Computing Acceleration R&D Division at Andes Technology, I designed and implemented a fully automated, end-to-end workflow—combining CSV interfaces, Python scripts, and templated generators—to produce RTL code, C drivers, and detailed register-file datasheets. This system virtually eliminated manual errors and dramatically accelerated delivery across multiple design configurations. To boost the deep-learning accelerator’s performance and area efficiency, I re-architected its matrix-multiplication adder tree by cascading carry-sum adders in ascending bit-width order, thereby reducing overall gate count. For cycle-accurate power analysis, I created functional-pass bitmaps for the software team, enabling cycle-based power modeling on our neural-network benchmarks. After collecting cycle-count tables, I merged them with gate-toggle data—extracted from full-utilization power-pattern simulations—to perform a fine-grained analysis. Finally, by scaling activity factors over the total cycle time, I translated these combined metrics into precise average dynamic-power estimates for vendors."
   - position: Graduate Research Assistant
     company_name: National Yang Ming Chiao Tung University
     company_url: https://www.nycu.edu.tw/
