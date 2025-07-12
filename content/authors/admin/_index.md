@@ -23,27 +23,22 @@ profiles:
 
 interests:
   - Machine Learning
-  - Heterogeneous System on FPGA and GPU
-  - FPGA High-Level Synthesis for Machine Learning 
-  - Digital Integrated Circuit Design
+  - FPGA/GPU Heterogeneous System 
+  - HLS for Machine Learngin 
+  - Digital IC Design
   - Data-Driven Code-Generation for RTL/C++ 
 
 education:
-  - area: M.Eng. Digital VLSI and System Design
-    institution: National Yang Ming Chiao Tung University
+  - area: Thesis-Based Master Student
+    institution: Institute of Pioneer Semiconductor Innovation, NYCU
     date_start: "2024-09-01"
     date_end: ""
     summary: Institute of Pioneer Semiconductor Innovation, Integrated Circuit and System Group
-  - area: B.S. Electrical Engineering (with Distinction)
+  - area: Bachelor Electrical Engineering (Distinction)
     institution: National Tsing Hua University
     date_start: "2021-09-01"
     date_end: "2024-06-30"
     summary: Ranked first in class
-  - area: B.S. Physics (Transferred)
-    institution: National Tsing Hua University
-    date_start: "2020-09-01"
-    date_end: "2021-06-30"
-    summary: ""
 
 work:
   - position: Digital Design Intern
