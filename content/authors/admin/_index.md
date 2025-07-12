@@ -24,7 +24,7 @@ profiles:
 interests:
   - Machine Learning
   - FPGA/GPU Heterogeneous System 
-  - HLS for Machine Learngin 
+  - HLS for Machine Learning 
   - Digital IC Design
   - Data-Driven RTL/C++ Codegen
 
