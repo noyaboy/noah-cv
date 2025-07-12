@@ -6,12 +6,12 @@ status:
   icon: "☕️"
 superuser: true
 highlight_name: true
-role: Thesis-Based Master Student @ NYCU
+role: Thesis-Based Master Student
 
 organizations:
-  - name: Institute of Pioneer Semiconductor Innovation, NYCU
+  - name: Institute of Pioneer Semiconductor Innovation @NYCU
     url: https://iais.nycu.edu.tw/en/index.html
-  - name: Affiliate Trainee, A3D3 Institute
+  - name: Affiliate Trainee @A3D3 Institute
     url: https://a3d3.ai/
 
 profiles:
@@ -26,7 +26,7 @@ interests:
   - FPGA/GPU Heterogeneous System 
   - HLS for Machine Learngin 
   - Digital IC Design
-  - Data-Driven Code-Generation for RTL/C++ 
+  - Data-Driven RTL/C++ Codegen
 
 education:
   - area: Thesis-Based Master Student
