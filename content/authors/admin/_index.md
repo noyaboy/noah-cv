@@ -93,12 +93,15 @@ languages:
     percent: 100
 
 awards:
-  - name: Certificate of Outstanding Graduate Award
-    year: 2024
-  - name: College of Science Elite Student Award
-    year: 2023
-  - name: Presidential Awards (x3)
-    year: 2021-2023
+  - title: Certificate of Outstanding Graduate Award
+    awarder: National Tsing Hua University
+    date: '2024-06-30'
+  - title: College of Science Elite Student Award
+    awarder: National Tsing Hua University
+    date: '2023-06-30'
+  - title: Presidential Awards (x3)
+    awarder: National Tsing Hua University
+    date: '2021-06-30'
 
 ---
 
