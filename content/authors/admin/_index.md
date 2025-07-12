@@ -99,7 +99,7 @@ awards:
   - title: College of Science Elite Student Award
     awarder: National Tsing Hua University
     date: '2023-06-30'
-  - title: Presidential Awards (x3)
+  - title: Three-time Dean’s List Honoree
     awarder: National Tsing Hua University
     date: '2021-06-30'
 
