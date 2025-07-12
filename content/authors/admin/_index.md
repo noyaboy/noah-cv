@@ -38,7 +38,7 @@ education:
     institution: National Tsing Hua University
     date_start: "2021-09-01"
     date_end: "2024-06-30"
-    summary: Recipient of the Certificate of Outstanding Graduate Award, a three-time Dean’s List honoree, and the College of Science Elite Student Award.
+    summary: Graduating in 2024 from National Tsing Hua University with a B.Sc. in Electrical Engineering, I was honored with the Certificate of Outstanding Graduate Award for academic excellence and achieved a cumulative GPA of 4.10/4.30.
 
 work:
   - position: Digital Design Intern
