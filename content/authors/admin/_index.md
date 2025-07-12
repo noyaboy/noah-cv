@@ -1,6 +1,6 @@
 ---
-title: Hao-Jyun (Noah) Liang
-first_name: Hao-Jyun
+title: Hao-Chun (Noah) Liang
+first_name: Hao-Chun
 last_name: Liang
 status:
   icon: "☕️"
