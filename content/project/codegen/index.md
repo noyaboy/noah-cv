@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Fully automated, end-to-end workflow—combining CSV interfaces, Python scripts, and templated generators to produce RTL code, C drivers, and detailed register-file datasheets.
+Fully automated.
 
 <!--more-->
