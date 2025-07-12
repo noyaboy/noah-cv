@@ -1,12 +1,12 @@
 ---
-title: Hao-Chun (Noah) Liang
+title: Hao-Chun Liang
 first_name: Hao-Chun
 last_name: Liang
 status:
   icon: "☕️"
 superuser: true
 highlight_name: true
-role: M.Eng. Student in Digital VLSI, IPSI @ NYCU
+role: Thesis-Based Master Student @ NYCU
 
 organizations:
   - name: Institute of Pioneer Semiconductor Innovation, NYCU
@@ -22,9 +22,11 @@ profiles:
     url: https://www.linkedin.com/in/hao-jyun-noah-liang-131348207/
 
 interests:
-  - Hardware Design
-  - VLSI
-  - Semiconductor Innovation
+  - Machine Learning
+  - Heterogeneous System on FPGA and GPU
+  - FPGA High-Level Synthesis for Machine Learning 
+  - Digital Integrated Circuit Design
+  - Data-Driven Code-Generation for RTL/C++ 
 
 education:
   - area: M.Eng. Digital VLSI and System Design
@@ -107,8 +109,6 @@ awards:
 
 ## About Me
 
-I am a graduate student in the Institute of Pioneer Semiconductor Innovation at National Yang Ming Chiao Tung University, focusing on digital VLSI and system design. My research in the Parallel Computing System Laboratory explores hardware–software co-acceleration and next-generation computing architectures.
+I am currently pursuing a Master of Engineering in Digital VLSI and System Design at National Yang Ming Chiao Tung University, working in the Parallel Computing System Laboratory under Professor Lai, Bo-Cheng. I also serve as an Affiliate Trainee in Washington, U.S., optimizing GPU algorithms for particle trajectory reconstruction in HL-LHC HEP experiments.
 
-Professionally, I intern at Andes Technology Corporation, where I develop automation flows and performance analysis for AI/deep-learning accelerators, and I serve as an affiliate trainee in the A3D3 Institute in Seattle, optimizing GPU algorithms for high-energy-physics applications.
-
-I aim to bridge cutting-edge hardware design with data-driven discovery to push the boundaries of intelligent computing.
+I earned my B.S. with distinction in Electrical Engineering after transferring from the Physics Department at National Tsing Hua University, where I ranked first in my class. Since November 2024, I have worked as a Digital Design Intern in the AI/Deep Learning Accelerator group at Andes Technology Corporation in Hsinchu, Taiwan, focusing on CPU-related AI and deep learning accelerator development.
