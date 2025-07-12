@@ -36,7 +36,7 @@ education:
     summary: "In pursuit of a thesis-based M.Eng. in Digital VLSI and System Design at National Yang Ming Chiao Tung University, I serve as a graduate research assistant in Professor Bo-Cheng Lai’s Parallel Computing System Laboratory."
   - area: Bachelor Electrical Engineering (Distinction)
     institution: National Tsing Hua University
-    date_start: "2021-09-01"
+    date_start: "2020-09-01"
     date_end: "2024-06-30"
     summary: Graduating in 2024 from National Tsing Hua University with a B.Sc. in Electrical Engineering, I was honored with the Certificate of Outstanding Graduate Award for academic excellence and achieved a cumulative GPA of 4.10/4.30.
 
