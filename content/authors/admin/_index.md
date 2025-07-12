@@ -47,7 +47,7 @@ work:
     location: Hsinchu, Taiwan
     date_start: "2024-11-01"
     date_end: ""
-    summary: Automated RTL code modifications and hardware configuration via CSV & Python templates; performed UVM tests, synthesis, and power/timing analysis for a deep-learning accelerator.
+    summary: During my gap year at Andes Technology’s Computing Acceleration R&D Division, I automated RTL code, C code generation using a CSV interface, Python scripts and templates, which cut errors and sped up the process. I also oversaw the deep learning accelerator’s performance workflow—from choosing libraries and generating hardware with TSMC SRAM macros to running functional test, using power pattern to generate toggle information and carrying out power and static timing analyses with graph-based algorithms.
   - position: Graduate Research Assistant
     company_name: National Yang Ming Chiao Tung University
     company_url: https://www.nycu.edu.tw/
