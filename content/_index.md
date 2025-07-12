@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on developing advanced methodologies for intelligent computing, with an emphasis on hardware-software co-acceleration and heterogeneous platform integrating FPGA and GPU. Recently, I am optimizing GPU algorithms in traccc to enhance performance and address computational challenges in particle trajectory reconstruction for the High-Luminosity Large Hadron Collider (HL-LHC) in High-Energy Physics (HEP) experiments. 
         
         Please reach out to collaborate 😃
     design:
