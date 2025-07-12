@@ -1,27 +1,26 @@
 ---
+title: "A High-Performance Implementation of GNN-Based Trajectory Reconstruction on FPGA"
 authors:
-+title: "A High-Performance Implementation of GNN-Based Trajectory Reconstruction on FPGA"
+  - Yun-Chen Yang
   - Hao-Chun Liang
-+  - Yun-Chen Yang
+  - Bo-Cheng Lai
 date: "2025-01-01T00:00:00Z"
-+  - Bo-Cheng Lai
+publishDate: "2025-01-01T00:00:00Z"
 doi: ""
-+publishDate: "2025-01-01T00:00:00Z"
+publication_types: ["paper-conference"]
 publication: "Proceedings of the 33rd International Conference on Field-Programmable Logic and Applications (FPL)"
-+publication_types: ["paper-conference"]
+abstract: >
   We present **HiGTR**, the first end-to-end FPGA accelerator that performs
-+abstract: >
+  complete GNN-based trajectory reconstruction within 4 μs for HL-LHC trigger systems.
 tags: [FPGA, Graph Neural Networks, High-Energy Physics]
-+  complete GNN-based trajectory reconstruction within 4 μs for HL-LHC trigger systems.
+featured: true
 url_pdf: gnn_trajectory_reconstruction.pdf
-+featured: true
+image:
   caption: "Architecture overview of HiGTR"
-+image:
+  focal_point: ""
   preview_only: false
-+  focal_point: ""
+---
 
-+---
+HiGTR unifies geometry-aware graph construction, low-latency GNN inference, and sequential track building
 in a single streaming pipeline on a Xilinx® Virtex UltraScale™ VU9P, achieving **2.36 µs** end-to-end latency
-+HiGTR unifies geometry-aware graph construction, low-latency GNN inference, and sequential track building
-
-+and **2.35 MHz** sustained throughput — comfortably meeting High-Luminosity LHC Level-1 trigger requirements.
+and **2.35 MHz** sustained throughput — comfortably meeting High-Luminosity LHC Level-1 trigger requirements.
