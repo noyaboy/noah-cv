@@ -10,7 +10,7 @@ role: Thesis-Based Master Student @ NYCU
 
 organizations:
   - name: Institute of Pioneer Semiconductor Innovation, NYCU
-    url: https://ipsi.nycu.edu.tw/
+    url: https://iais.nycu.edu.tw/en/index.html
   - name: Affiliate Trainee, A3D3 Institute
     url: https://a3d3.ai/
 
