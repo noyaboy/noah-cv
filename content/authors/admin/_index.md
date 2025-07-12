@@ -22,7 +22,7 @@ profiles:
     url: https://www.linkedin.com/in/hao-jyun-noah-liang-131348207/
 
 interests:
-  - Machine Learning
+  - Efficient Machine Learning
   - FPGA/GPU Heterogeneous System 
   - HLS for Machine Learning 
   - Digital IC Design
