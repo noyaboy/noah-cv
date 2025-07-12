@@ -33,12 +33,12 @@ education:
     institution: Institute of Pioneer Semiconductor Innovation, NYCU
     date_start: "2024-09-01"
     date_end: ""
-    summary: While completing my coursework, I concurrently held the position of Graduate Research Assistant in Professor Bo-Cheng Lai’s laboratory.
+    summary: "I am currently pursuing a Thesis-Based Master of Engineering in Digital VLSI and System Design at National Yang Ming Chiao Tung University, where I work as graduate research assistant in the Parallel Computing System Laboratory under Professor Lai, Bo-Cheng."
   - area: Bachelor Electrical Engineering (Distinction)
     institution: National Tsing Hua University
     date_start: "2021-09-01"
     date_end: "2024-06-30"
-    summary: Ranked first in class
+    summary: Certificate of Outstanding Graduate Award with 3x Dean's List Awards and 1x College of Science Elite Student Award.
 
 work:
   - position: Digital Design Intern
@@ -54,7 +54,7 @@ work:
     location: Hsinchu, Taiwan
     date_start: "2024-12-01"
     date_end: ""
-    summary: I am currently pursuing a Master of Engineering in Digital VLSI and System Design at National Yang Ming Chiao Tung University, where I work in the Parallel Computing System Laboratory under Professor Lai, Bo-Cheng. My research focuses on developing advanced methodologies for intelligent computing, with an emphasis on hardware-software co-acceleration and heterogeneous platform integrating FPGA and GPU.
+    summary: My research focuses on developing advanced methodologies for intelligent computing, with an emphasis on hardware-software co-acceleration and heterogeneous platform integrating FPGA and GPU.
   - position: Affiliate Trainee
     company_name: A3D3 – Accelerated AI Algorithms for Data-Driven Discovery
     company_url: https://a3d3.ai/
