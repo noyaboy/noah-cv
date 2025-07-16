@@ -85,6 +85,9 @@ skills:
       - name: Hspice, Laker, Calibre
         percent: 70
         icon: code
+      - name: Git, Linux
+        percent: 70
+        icon: code
 
 languages:
   - name: English
