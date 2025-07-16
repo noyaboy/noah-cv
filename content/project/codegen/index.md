@@ -1,5 +1,5 @@
 ---
-title: Register File Code Generation
+title: Register File CodeGen
 date: 2025-07-01
 external_link: https://github.com/noyaboy/andla_codegen
 tags:
