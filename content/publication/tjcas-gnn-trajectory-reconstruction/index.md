@@ -24,7 +24,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 image:
-  caption: "Architecture overview of HiGTR"
+  caption: "Edge-Classification Algorithm overview of HiGTR"
   focal_point: ""
   preview_only: false
 projects: []
