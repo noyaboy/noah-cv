@@ -31,7 +31,7 @@ interests:
 education:
   - area: Thesis-Based Master Student
     institution: Institute of Pioneer Semiconductor Innovation, NYCU
-    date_start: "2024-09-01"
+    date_start: "2025-09-01"
     date_end: ""
     summary: "In pursuit of a thesis-based M.Eng. in Digital VLSI and System Design at National Yang Ming Chiao Tung University, I serve as a graduate research assistant in Professor Bo-Cheng Lai’s Parallel Computing System Laboratory."
   - area: Bachelor Electrical Engineering (Distinction)
