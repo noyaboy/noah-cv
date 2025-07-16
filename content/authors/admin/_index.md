@@ -102,6 +102,13 @@ awards:
   - title: Three-time Dean’s List Honoree
     awarder: National Tsing Hua University
     date: '2024-06-30'
+  - title: ADFP - TSMC 16nm Cell-Based Digital Chip Design and Implementation
+    awarder: Taiwan Semiconductor Research Institute
+    date: '2024-09-01'
+  - title: Building Transformer-Based Natural Language Processing Applications
+    awarder: NVIDIA - Deep Learning Institute
+    date: '2023-12-30'
+
 
 ---
 
