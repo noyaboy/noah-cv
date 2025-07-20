@@ -4,8 +4,8 @@ authors:
   - Yun-Chen Yang
   - Hao-Chun Liang
   - Bo-Cheng Lai
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+date: "2025-07-15T00:00:00Z"
+publishDate: "2025-07-15T00:00:00Z"
 doi: ""
 publication_types: ["conference-paper"]
 publication: "Taiwan and Japan Conference on Circuits and Systems, TJCAS 2025"

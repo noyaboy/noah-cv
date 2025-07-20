@@ -4,8 +4,8 @@ authors:
   - Yun-Chen Yang
   - Hao-Chun Liang
   - Bo-Cheng Lai
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+date: "2025-06-25T00:00:00Z"
+publishDate: "2025-06-25T00:00:00Z"
 doi: ""
 publication_types: ["symposium-paper"]
 publication: "2025 VLSI Design / CAD Symposium"
